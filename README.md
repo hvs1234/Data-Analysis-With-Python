@@ -14,13 +14,7 @@ To enhance data analysis workflows, tools like Anaconda and Spyder provide integ
 
 Links to these libraries and tools:
 
-Pandas
-NumPy
-SciPy
-Matplotlib
-Seaborn
-Jupyter Notebooks
-scikit-learn
-Anaconda
-Spyder
+https://pandas.pydata.org/
+https://numpy.org/
+https://matplotlib.org/
 These resources empower data analysts to harness the full potential of Python for effective and insightful data analysis.
